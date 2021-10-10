@@ -48,7 +48,7 @@ textarea:focus {
 }
 
 .save:hover {
-  background-color: #FBF5E5;
+  background-color: #FBF5E5 q;
   cursor: pointer;
 }
 
@@ -60,6 +60,7 @@ textarea:focus {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  white-space: pre-wrap;
 }
 
 .note-footer {
