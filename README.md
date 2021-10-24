@@ -1,1 +1,1 @@
-A web application uses React to allows users to create and save notes.
+A web application that uses React to allows users to create and save notes.
